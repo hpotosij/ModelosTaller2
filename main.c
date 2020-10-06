@@ -131,6 +131,7 @@ void parada_bus_aeropuerto(int bus){
 
 
  void salidaHotel1Bus(int bus){
+     //
  }
 
 void salidaHotel2Bus(int bus){
